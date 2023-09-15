@@ -130,7 +130,7 @@ This is a multiline print
 """)
 
 
-# Immutable element
+# Immutable elements
 mutable_list = ['a', 'd', 'd', 'd', 'e']
 # I can change for a example first element by doing this
 mutable_list[0] = 'f'
